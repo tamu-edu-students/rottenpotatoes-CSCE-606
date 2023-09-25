@@ -18,7 +18,7 @@ more_movies = [
     :release_date => '19-Feb-2021'},
   {:title => 'CODA', :rating => 'PG-13',
     :release_date => '13-Aug-2021'}
-  {:title => 'Harry Potter and the Sorcerer's Stone', :rating => 'PG-13',
+  {:title => 'Harry Potter and the Sorcerer Stone', :rating => 'PG-13',
     :release_date => '13-Nov-2001'}
   {:title => 'Harry Potter and the Chamber of Secrets ', :rating => 'PG-13',
     :release_date => '15-Nov-2002'}
